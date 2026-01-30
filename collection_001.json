@@ -1,0 +1,40 @@
+{
+    "id": "collection_001",
+    "title": "印象派",
+    "description": "Classic masterpieces included with the app.",
+    "artworks": [
+        {
+            "id": "A1B2C3D4-E5F6-7890-1234-567890ABCDEF",
+            "title": "Woman with a Parasol - Madame Monet and Her Son",
+            "artist": "Claude Monet",
+            "year": "1875",
+            "description": "A serene depiction of nature's transition, capturing the golden light of an autumn evening.",
+            "museum": "National Gallery of Art, Washington DC",
+            "imageName": "sample_art",
+            "imageURL": "https://lh3.googleusercontent.com/ci/AL18g_SaM8bTdjrGh_epUvwgYFymrNgvVqz0uRXFsz8pyEs_h971yx0nsUuMxdL4QAelpCHkRPnC55j2=w800",
+            "sourceURL": "https://artsandculture.google.com/asset/woman-with-a-parasol-madame-monet-and-her-son-claude-monet/EwHxeymQQnprMg"
+        },
+        {
+            "id": "F1E2D3C4-B5A6-0987-6543-210987654321",
+            "title": "Luncheon on the Grass",
+            "artist": "Édouard Manet",
+            "year": "1863",
+            "description": "A copy of the masterpiece outside.",
+            "museum": "Musée d’Orsay, Paris",
+            "imageName": "sample_art",
+            "imageURL": "https://lh3.googleusercontent.com/ci/AL18g_RqlxA4IlGHhtKnmBcJemZUoRK78NqUp5vk0PGFvIy4Los7R9UH7qgxqGT4lKNiuXPUmjUIiw=w800",
+            "sourceURL": "https://artsandculture.google.com/asset/luncheon-on-the-grass/twELHYoc3ID_VA"
+        },
+        {
+            "id": "11223344-5566-7788-9900-AABBCCDDEEFF",
+            "title": "Country Dance",
+            "artist": "Pierre-Auguste Renoir",
+            "year": "1883",
+            "description": "A copy of the masterpiece.",
+            "museum": "Musée d’Orsay, Paris",
+            "imageName": "sample_art",
+            "imageURL": "https://lh3.googleusercontent.com/ci/AL18g_Ry8YXYXkc2CRMFOTK-7vNnkMIuS3HeM8Yc-dglFKWcsZc0evwvcxu18rfsfi1AEYZUOcj8x2g=w800",
+            "sourceURL": "https://artsandculture.google.com"
+        }
+    ]
+}
