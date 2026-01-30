@@ -1,0 +1,40 @@
+{
+    "id": "collection_002",
+    "title": "Renaissance",
+    "description": "Classic masterpieces included with the app.",
+    "artworks": [
+        {
+            "id": "A1B2C3D4-E5F6-7890-1234-567890ABCDEF",
+            "title": "Hunters in the Snow (Winter)",
+            "artist": "Pieter Bruegel the Elder",
+            "year": "1565",
+            "description": "A serene depiction of nature's transition, capturing the golden light of an autumn evening.",
+            "museum": "Kunsthistorisches Museum Wien",
+            "imageName": "sample_art",
+            "imageURL": "https://lh3.googleusercontent.com/ci/AL18g_Ts_AnnJYbD7bTNi_-B_es_8oPDBRoLzFaU963n9n0upcgu7rGMaVVCTlfi0J4Qzow-f3mlGhQ=w800",
+            "sourceURL": "https://artsandculture.google.com/asset/hunters-in-the-snow-winter-pieter-bruegel-the-elder/WgFmzFNNN74nUg"
+        },
+        {
+            "id": "F1E2D3C4-B5A6-0987-6543-210987654321",
+            "title": "Lady with an Ermine",
+            "artist": "Leonardo da Vinci",
+            "year": "c. 1489",
+            "description": "A copy of the masterpiece outside.",
+            "museum": "The National Museum in Krakow",
+            "imageName": "sample_art",
+            "imageURL": "https://lh3.googleusercontent.com/ci/AL18g_RUgmRR46mh4sToGcvsBVnrZphMVsP_cG1fYglfvSf5_6Ix1qhAYQRrUecH9-5VGfUViS6ZTS8=w800",
+            "sourceURL": "https://artsandculture.google.com/asset/lady-with-an-ermine-leonardo-da-vinci/HwHUpggDy_HxNQ"
+        },
+        {
+            "id": "11223344-5566-7788-9900-AABBCCDDEEFF",
+            "title": "Der ungläubige Thomas",
+            "artist": "Caravaggio",
+            "year": "1601",
+            "description": "A copy of the masterpiece.",
+            "museum": "Picture Gallery Sanssouci, Prussian Palaces and Gardens Foundation Berlin-Brandenburg",
+            "imageName": "sample_art",
+            "imageURL": "https://lh3.googleusercontent.com/ci/AL18g_TFBvZ2lkWuCm-MZ7qQ-mrfXXSj1j5iY4RH3hHgFQVHCNrsMuclUzLnT-LpIiYgjxeJm3ncnsk=w800",
+            "sourceURL": "https://artsandculture.google.com/asset/der-ungl%C3%A4ubige-thomas-michelangelo-merisi-named-caravaggio/OAEjjQkNdRL9sg"
+        }
+    ]
+}
