@@ -6,7 +6,7 @@
     {
       "id": "collection_001",
       "title": "Impressionism",
-      "thumbnailURL": "https://github.com/poorfish/artass/blob/05116ef37ff562677fd3d57d34a5dd1e9cb8442e/collection_001.png",
+      "thumbnailURL": "https://raw.githubusercontent.com/poorfish/artass/main/collection_001.png",
       "artworkCount": 12,
       "type": "free", 
       "jsonURL": "https://raw.githubusercontent.com/poorfish/artass/refs/heads/main/collection_001.json",
@@ -16,7 +16,7 @@
     {
       "id": "collection_002",
       "title": "Renaissance",
-      "thumbnailURL": "https://github.com/poorfish/artass/blob/05116ef37ff562677fd3d57d34a5dd1e9cb8442e/collection_002.png",
+      "thumbnailURL": "https://raw.githubusercontent.com/poorfish/artass/main/collection_002.png",
       "artworkCount": 8,
       "type": "paid",
       "jsonURL": "https://raw.githubusercontent.com/poorfish/artass/refs/heads/main/collection_002.json",
