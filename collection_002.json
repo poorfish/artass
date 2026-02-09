@@ -4,7 +4,7 @@
     "description": "Classic masterpieces included with the app.",
     "artworks": [
         {
-            "id": "A1B2C3D4-E5W6-7890-1234-567890ABCDEF",
+            "id": "A1B2C3D4-E5A6-7890-1234-567890ABCDEF",
             "title": "Hunters in the Snow (Winter)",
             "artist": "Pieter Bruegel the Elder",
             "year": "1565",
@@ -14,7 +14,7 @@
             "sourceURL": "https://artsandculture.google.com/asset/hunters-in-the-snow-winter-pieter-bruegel-the-elder/WgFmzFNNN74nUg"
         },
         {
-            "id": "F1E2D3C4-B5X6-0987-6543-219987654321",
+            "id": "F1E2D3C4-B5B6-0987-6543-219987654321",
             "title": "Lady with an Ermine",
             "artist": "Leonardo da Vinci",
             "year": "c. 1489",
@@ -24,7 +24,7 @@
             "sourceURL": "https://artsandculture.google.com/asset/lady-with-an-ermine-leonardo-da-vinci/HwHUpggDy_HxNQ"
         },
         {
-            "id": "11223344-5566-7788-9900-ASBBCCDDEEFF",
+            "id": "11223344-5566-7788-9900-A9BBCCDDEEFF",
             "title": "Der ungläubige Thomas",
             "artist": "Caravaggio",
             "year": "1601",
